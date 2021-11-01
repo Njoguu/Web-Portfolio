@@ -84,8 +84,8 @@ p {
    
 }
 #header .header {
-    min-height: 8vh;
-    background-image: url("images/lego.jpg");
+    min-height: 6vh;
+    background-color: #61615c;
     transition: .3s ease background-color;
 }
 #header .nav-bar {
@@ -203,7 +203,7 @@ p {
 
 /* Hero Section */
 #hero {
-    /* background-image: url(img/hero-bg.png); */
+    background-image: url(images/yellow-bg.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -265,6 +265,23 @@ p {
     animation-delay: 2.5s;
 }
 
+/* .btns{
+    display: inline-block;
+    padding: 10px 30px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid #61615c;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    margin-top: 30px;
+    transition: .3s ease;
+    transition-property: background-color, color;
+}
+.btns:hover{
+    color: white;
+    background-color: #dcd914;
+} */
 /* End Hero Section */
 
 /* Services Section */
