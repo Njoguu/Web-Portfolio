@@ -1,5 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-@import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 * {
     padding: 0;
     margin: 0;
@@ -8,7 +8,7 @@
 
 html {
     font-size: 10px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
 }
 a {
@@ -75,18 +75,20 @@ p {
 
 /* Header section */
 #header {
-    position: fixed;
+    /* position: fixed; */
+    position: absolute;
+    /* position: absolute; */
     z-index: 1000;
     left: 0;
     top: 0;
-    width: 100vw;
+    width: 100%;
     height: auto;
    
 }
 #header .header {
     min-height: 6vh;
-    background-color: #61615c;
-    transition: .3s ease background-color;
+    /* background-color: #61615c;
+    transition: .3s ease background-color; */
 }
 #header .nav-bar {
     display: flex;
@@ -94,7 +96,8 @@ p {
     justify-content: space-between;
     width: 100%;
     height: 100%;
-    max-width: 1300px;
+    max-width: 100%;
+    padding-top: 30px;
     padding: 0 10px;
 }
 #header .nav-list ul {
@@ -203,7 +206,8 @@ p {
 
 /* Hero Section */
 #hero {
-    background-image: url(images/yellow-bg.jpg);
+    background-image: url(images/christmas-g1aa123d89_1280.png);
+    /* background-size: cover; */
     background-size: cover;
     background-position: top center;
     position: relative;
