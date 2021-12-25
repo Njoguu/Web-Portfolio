@@ -1,5 +1,11 @@
 # WebPortfolio
 
+<div>
+  
+[![GitHub Issues](https://img.shields.io/github/issues/Tech-With-Tim/Frontend.svg)](https://github.com/Njoguu/Web-Portfolio/issues)
+<!-- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Njoguu/services-app/blob/main/LICENSE) -->
+  
+</div>
 This portfolio project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
 ## Development server
