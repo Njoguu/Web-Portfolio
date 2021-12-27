@@ -1,4 +1,3 @@
-/* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 * {
     padding: 0;
@@ -75,9 +74,7 @@ p {
 
 /* Header section */
 #header {
-    /* position: fixed; */
     position: absolute;
-    /* position: absolute; */
     z-index: 1000;
     left: 0;
     top: 0;
@@ -87,8 +84,6 @@ p {
 }
 #header .header {
     min-height: 6vh;
-    /* background-color: #61615c;
-    transition: .3s ease background-color; */
 }
 #header .nav-bar {
     display: flex;
@@ -207,7 +202,6 @@ p {
 /* Hero Section */
 #hero {
     background-image: url(images/yellow-bg.jpg);
-    /* background-size: cover; */
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -268,24 +262,6 @@ p {
 #hero h1:nth-child(3) span {
     animation-delay: 2.5s;
 }
-
-/* .btns{
-    display: inline-block;
-    padding: 10px 30px;
-    color: white;
-    background-color: transparent;
-    border: 2px solid #61615c;
-    font-size: 1rem;
-    text-transform: uppercase;
-    letter-spacing: .1rem;
-    margin-top: 30px;
-    transition: .3s ease;
-    transition-property: background-color, color;
-}
-.btns:hover{
-    color: white;
-    background-color: #dcd914;
-} */
 /* End Hero Section */
 
 /* Services Section */
@@ -315,7 +291,6 @@ p {
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    /* background-image: url(./img/img-1.png); */
     background-size: cover;
     margin: 10px 5%;
     position: relative;
@@ -430,8 +405,6 @@ p {
     max-width: 1200px;
     margin: 0 auto;
     padding: 50px 0;
-    /* padding: 100px 20px; */
-    
 }
 #about .col-left {
     width: 250px;
