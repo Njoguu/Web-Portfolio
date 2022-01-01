@@ -75,6 +75,8 @@ p {
 /* Header section */
 #header {
     position: absolute;
+    padding-top: 10px;
+    padding-left: 770px;
     z-index: 1000;
     left: 0;
     top: 0;
@@ -89,6 +91,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    float: right;
     width: 100%;
     height: 100%;
     max-width: 100%;
