@@ -3,7 +3,7 @@
 <div>
   
 [![GitHub Issues](https://img.shields.io/github/issues/Tech-With-Tim/Frontend.svg)](https://github.com/Njoguu/Web-Portfolio/issues)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Njoguu/services-app/blob/main/LICENSE)
+
   
 </div>
 
