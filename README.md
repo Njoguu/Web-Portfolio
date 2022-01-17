@@ -3,7 +3,7 @@
 <div>
   
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Njoguu/Web-Portfolio/blob/main/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/Njoguu/Web-Portfolio?color=orange)](https://github.com/Njoguu/Web-Portfolio/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Njoguu/Web-Portfolio)](https://github.com/Njoguu/Web-Portfolio/issues)
 [![Github Issues](https://img.shields.io/github/issues-closed-raw/Njoguu/Web-Portfolio)](https://github.com/Njoguu/Web-Portfolio/issues)
 [![Github pull requests](https://img.shields.io/github/issues-pr-raw/Njoguu/Web-Portfolio?color=yellow)](https://github.com/Njoguu/Web-Portfolio/pulls)
 [![Github pull requests](https://img.shields.io/github/issues-pr-closed-raw/Njoguu/Web-Portfolio?color=green)](https://github.com/Njoguu/Web-Portfolio/pulls)
