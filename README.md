@@ -3,10 +3,10 @@
 <div>
   
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Njoguu/Web-Portfolio/blob/main/LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/Njoguu/Web-Portfolio)](https://github.com/Njoguu/Web-Portfolio/issues)
+
+[![Github Issues](https://img.shields.io/github/issues-raw/Njoguu/Web-Portfolio)](https://github.com/Njoguu/Web-Portfolio/issues)  
 [![Github pull requests](https://img.shields.io/github/issues-pr-raw/Njoguu/Web-Portfolio?color=yellow)](https://github.com/Njoguu/Web-Portfolio/pulls)
 
-  
 </div>
 
 This portfolio project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
