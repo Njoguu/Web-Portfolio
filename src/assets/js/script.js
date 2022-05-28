@@ -1,3 +1,8 @@
+import dotenv from 'dotenv';
+dotenv.config();
+console.log(process.env)
+
+
 const hamburger = document.querySelector('.header .nav-bar .nav-list .hamburger');
 const mobile_menu = document.querySelector('.header .nav-bar .nav-list ul');
 const menu_item = document.querySelectorAll('.header .nav-bar .nav-list ul li a');
